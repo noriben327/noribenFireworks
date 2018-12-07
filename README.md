@@ -9,8 +9,8 @@ n_Fireworks_big_mesh 大サイズ 花火の先端がメッシュで、Bloomエ�
 n_Fireworks_Saturn 土星みたいな花火
 
 
-Creative Commons
+Creative Commons<br>
 CC BY-NC 4.0
 
-noriben
+noriben<br>
 Twitter: @noriben327
