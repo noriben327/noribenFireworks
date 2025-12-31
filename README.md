@@ -12,6 +12,3 @@ noriben<br>
 Twitter: @noriben327
 
 CC BY-NC 4.0
-
-■Amazon干しいも貰えると励みになりま~す。
-https://www.amazon.co.jp/registry/wishlist/20ZZUF58JEAET/
